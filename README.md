@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankalpa</h1>
 <h3 align="center">A passionate frontend developer, curious about learning new things in Machine Learning and AI!</h3>
-<img align="right" alt="Coding" width="400" src="https://becominghuman.ai/beginners-guide-cnn-image-classifier-part-1-140c8a1f3c12">
+<img align="right" alt="Coding" width="400" src="https://becominghuman.ai/beginners-guide-cnn-image-classifier-part-1-140c8a1f3c12.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldroger200&label=Profile%20views&color=0e75b6&style=flat" alt="goldroger200" /> </p>
 
