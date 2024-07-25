@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldroger200&label=Profile%20views&color=0e75b6&style=flat" alt="goldroger200" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow, Scikit-learn, Keras**
+- 🌱 I’m currently learning **Tensorflow, Scikit-learn, Keras, React, Express**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
