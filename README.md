@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **psankalpa2019@gmail.com**
 
-- ⚡ Fun fact **I love anime!**
+- ⚡ Fun fact **I love anime and cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
